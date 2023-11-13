@@ -58,9 +58,9 @@ The rest of the fixed parameters for each dataset can be configured in `configs/
 | -max_epoches  | the max number of epoches to run|
 
 ## Data preparation
-MS(Fully-supervised Multiple-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6)
-S4(Semi-supervised Single-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6)
-AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/15GZeDbVMe2z6YUGA](https://forms.gle/15GZeDbVMe2z6YUGA)
+MS(Fully-supervised Multiple-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6) <br>
+S4(Semi-supervised Single-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6) <br>
+AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/15GZeDbVMe2z6YUGA](https://forms.gle/15GZeDbVMe2z6YUGA) <br>
 
 ## Framework
 ![framework](images/pipeline.png)
