@@ -15,6 +15,9 @@ Kexin Li, Zongxin Yang∗, Lei Chen, Yi Yang, Jun Xiao
 </h4>
 </div>
 
+## Motivation
+![motivation](images/introduction.png)
+
 ## Environment Installation
 The code was tested on a Conda environment with CUDA Version as 11.7.
 Install [Conda](https://docs.conda.io/en/latest/miniconda.html) and then create an environment as follows:
@@ -53,3 +56,11 @@ The rest of the fixed parameters for each dataset can be configured in `configs/
 | -train_batch_size  | training batch size per GPU |
 | -val_batch_size  | eval batch size per GPU |
 | -max_epoches  | the max number of epoches to run|
+
+## Data preparation
+MS(Fully-supervised Multiple-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6)
+S4(Semi-supervised Single-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6)
+AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/15GZeDbVMe2z6YUGA](https://forms.gle/15GZeDbVMe2z6YUGA)
+
+## Framework
+![framework](images/pipeline.png)
