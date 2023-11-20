@@ -64,7 +64,7 @@ AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/1
 
 ## Pretrained Backbones
 
-The pretrained backbones can be downloaded from [here] and placed to the directory `pretrained_backbones`.
+The pretrained backbones can be downloaded from [here](https://drive.google.com/drive/folders/1nD0IV88kuil2QSw2ZR5dE9j7M-tRnvm8) and placed to the directory `pretrained_backbones`.
 
 
 ## Framework
