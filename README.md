@@ -57,12 +57,12 @@ The rest of the fixed parameters for each dataset can be configured in `configs/
 | -val_batch_size  | eval batch size per GPU |
 | -max_epoches  | the max number of epoches to run|
 
-## Data preparation
+## Data Preparation
 MS(Fully-supervised Multiple-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6) <br>
 S4(Semi-supervised Single-sound Source Segmentation): [https://forms.gle/GKzkU2pEkh8aQVHN6](https://forms.gle/GKzkU2pEkh8aQVHN6) <br>
 AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/15GZeDbVMe2z6YUGA](https://forms.gle/15GZeDbVMe2z6YUGA) <br>
 
-## pretrained backbones
+## Pretrained Backbones
 
 The pretrained backbones can be downloaded from [here] and placed to the directory `pretrained_backbones`.
 
