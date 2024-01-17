@@ -66,6 +66,8 @@ AVSS( Fully-supervised Audio-Visual Semantic Segmentation): [https://forms.gle/1
 
 The pretrained backbones can be downloaded from [here](https://drive.google.com/drive/folders/1nD0IV88kuil2QSw2ZR5dE9j7M-tRnvm8) and placed to the directory `pretrained_backbones`.
 
+## Config File
+The Config File can be downloaded from [here](https://pan.baidu.com/s/1rpUEAsSMptEChkl3v3prGg?pwd=tybr) The extraction code is 'tybr'.
 
 ## Framework
 ![framework](images/pipeline.png)
